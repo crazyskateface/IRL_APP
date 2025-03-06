@@ -2,11 +2,13 @@
 
 ## Requirements
 
-- Data aggregation: 
+### Place-based meetups/ scheduled repeating events
+
+### Data aggregation: 
     - get from data sources (eventbrite, fb events, custom)
     - 
 
-- Events: 
+## Events: 
     - Private : inv only
     - Public w/ pass : inv to get pass
     - Public 
